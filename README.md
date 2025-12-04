@@ -44,7 +44,7 @@ VS Code / Any IDE
 🧠 Sources & Credits
 
 This repository is based on the Striver A2Z DSA Sheet, created by Raj Vikramaditya (Striver).
-Link to the sheet: https://takeuforward.org/
+Link to the sheet: [https://takeuforward.org/](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
 All solutions are my own implementations.
 
