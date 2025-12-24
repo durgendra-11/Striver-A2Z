@@ -2,10 +2,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    int x=5555555555;
-    long y=5555555555;
-    long long z=55555555555555555555;
-    float a=1.6666666666666;
+    int x=555555555;
+    long long y=5555555555LL;
+    long long z=5555555555555555555LL;
+    float a=1.6666666666666f;
     double b=1.666666666666;
     cout<<x<<endl<<y<<endl<<z<<endl<<a<<endl<<b<<endl;
 //string and getline
@@ -22,3 +22,4 @@ int main(){
     cin>>ch;
     cout<<ch<<endl;
     return 0;
+}
